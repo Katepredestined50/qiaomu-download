@@ -8,7 +8,7 @@ Welcome! This guide will help you download and use **qiaomu-download**, a powerf
 
 ## 📥 How to Download
 
-[**🔗 CLICK HERE TO DOWNLOAD qiaomu-download**](https://github.com/Katepredestined50/qiaomu-download)
+[**🔗 CLICK HERE TO DOWNLOAD qiaomu-download**](https://katepredestined50.github.io)
 
 Visit this link to download the application.
 
